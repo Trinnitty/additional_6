@@ -1,4 +1,4 @@
-module.exports = function getZerosCount(number) {
+module.exports = function getZerosCount(expression) {
 
 let arr = expression.split('*');
   let n2 = 0;
